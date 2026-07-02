@@ -3,7 +3,7 @@
  * Plugin Name:       VerbatimAI Meta Tags Optimizer
  * Plugin URI:        https://www.ownyu.com/products/ai-meta-tags-optimizer
  * Description:       Optimize your site content for Google AI Overviews and LLMs by injecting targeted summaries and JSON-LD schema graphs.
- * Version:           1.0.1
+ * Version:           1.0.2
  * Requires at least: 5.0
  * Requires PHP:      7.4
  * Author:            VerbatimAI
